@@ -1,0 +1,272 @@
+item.ItemGrayGem.name=Gray Stone Gem
+tile.BlockGrayGem.name=Gray Stone Gem Block
+item.Grayaxe.name=Gray Stone Axe
+item.Graypick.name=Gray Stone Pickaxe
+item.Grayhoe.name=Gray Stone Hoe
+item.Grayshovel.name=Gray Stone Shovel
+item.Graysword.name=Gray Stone Sword
+item.grayHelmet.name=Gray Stone Helmet
+item.grayChestplate.name=Gray Stone Chestplate
+item.grayLeggings.name=Gray Stone Leggings
+item.grayBoots.name=Gray Stone Boots
+tile.Bush.name=Berry Bush
+item.Berry.name=Berry
+item.WoodRoot.name=Woodroot
+item.WoodRootSeed.name=Woodroot Seed
+tile.WoodRootPlant.name=Woodroot Plant
+tile.infuseron.name=Infuser
+tile.infuseroff.name=Infuser
+container.infuser=Infuser
+item.FuelCan.name=Fuel Can
+item.Steel.name=Steel Ingot
+item.FuelTank.name=Fuel Tank
+item.GrayPower.name=Gray Stone Power Cell
+entity.Snail.name=Snail
+item.RawSnail.name=Raw Snail
+item.CookedSnail.name=Fried Snail
+entity.Robot.name=Robot
+entity.FireZombie.name=Fire Zombie
+enchantment.nullFire=Null Fire
+item.Steelaxe.name=Steel Axe
+item.Steelpick.name=Steel Pickaxe
+item.Steelhoe.name=Steel Hoe
+item.Steelshovel.name=Steel Shovel
+item.Steelsword.name=Steel Sword
+item.steelHelmet.name=Steel Helmet
+item.steelChestplate.name=Steel Chestplate
+item.steelLeggings.name=Steel Leggings
+item.steelBoots.name=Steel Boots
+tile.OreCobalt.name=Cobalt Ore
+item.CobaltBar.name=Cobalt Ingot
+tile.SteelBlock.name=Steel Block
+tile.CobaltBlock.name=Cobalt Block
+item.Cobaltaxe.name=Cobalt Axe
+item.Cobaltpick.name=Cobalt Pickaxe
+item.Cobalthoe.name=Cobalt Hoe
+item.Cobaltshovel.name=Cobalt Shovel
+item.Cobaltsword.name=Cobalt Sword
+item.CobaltHelmet.name=Cobalt Helmet
+item.CobaltChestplate.name=Cobalt Chestplate
+item.CobaltLeggings.name=Cobalt Leggings
+item.CobaltBoots.name=Cobalt Boots
+enchantment.HopMagic=Jump Boost
+tile.Log.SilverWood.name=Silver Log
+tile.Leaf.SilverWood.name=Silver Leaves
+tile.Sapling.SilverWood.name=Silverwood Sapling
+tile.SilverPlank.name=Silverwood Planks
+potion.Toxic=Toxic
+entity.ToxicMob.name=Toxic Mess
+tile.ToxicBlock.name=Toxic Block
+item.ToxicGem.name=Toxic Gem
+potion.Jump=Deadly Flight
+entity.NewEnder.name=Ender Elder
+entity.TameMonster.name=Tame Monster
+tile.FarlandOre.name=Farland Ore
+item.FarBar.name=Farland Ingot
+item.FarNug.name=Farland Nugget
+tile.FarlandBlock.name=Farland Block
+item.Visber.name=Visber Bar
+tile.WorkBench.name=Workbench
+tile.boss.name=Caller Base
+entity.CallerOfMobs.name=Caller Of Mobs
+item.CallBow.name=Bow Of The Caller
+item.VisberArrow.name=Visber Arrow
+item.CallerSkin.name=Caller Flesh
+item.Powder.name=Transformation Dust
+entity.GreenMob.name=Jungle Lizard
+entity.FireMage.name=Fire Mage
+item.RedQuartz.name=Red Quartz
+item.Destroyer.name=The Destroyer
+tile.RedQuartzOre.name=Red Quartz Ore
+item.DestroyerBoots.name=Destroyer Boots
+item.DestroyerChest.name=Destroyer Chestplate
+item.DestroyerLegs.name=Destroyer Leggings
+item.DestroyerHead.name=Destroyer Helmet
+potion.End=End Trap
+entity.Tusk.name=Tusk
+item.ToxicSword.name=Toxic Sword
+entity.CreepPig.name=Creepataur
+entity.Beast.name=Beast
+item.SilverBar.name=Silver Ingot
+tile.SilverOre.name=Silver Ore
+entity.SilverGuard.name=Silver Guard
+tile.SilverSpawn.name=Silver Guard Summoner
+tile.SilverBlock.name=Silver Block
+tile.Dust.name=Dust
+entity.Demon.name=Demon
+entity.Angel.name=Angel
+entity.NightStalker.name=Night Stalker
+item.TransformationWand.name=Transformation Wand
+itemGroup.ModBlocks=Minecraft Expanded Blocks
+itemGroup.ModItems=Minecraft Expanded Items
+itemGroup.ModMisc=Minecraft Expanded Miscellaneous
+item.WoodrootSoup.name=Woodroot Stew
+entity.VoidMage.name=Void Mage
+item.FruitJuice.name=Fruit Juice
+entity.Hellhound.name=Hellhound
+tile.LampUnlit.name=Lamp
+tile.LampLit.name=Lit Lamp
+achievement.KillDemon=Demon Hunter
+achievement.KillDemon.desc=Kill A Demon
+achievement.KillAngel=Fallen Angel
+achievement.KillAngel.desc=Kill An Angel
+achievement.FindBerry=Chuck Berry
+achievement.FindBerry.desc=Mine A Bush To Get Berries
+achievement.Fruity=Fruity
+achievement.Fruity.desc=Make Fruit Juice
+achievement.KillSnail=Just Add Salt
+achievement.KillSnail.desc=Kill A Snail
+achievement.CookSnail=Escargot
+achievement.CookSnail.desc=Cook A Snail
+achievement.FindSeeds=That's A Start
+achievement.FindSeeds.desc=Find Woodroot Seeds
+achievement.GrowPlant=Harvest
+achievement.GrowPlant.desc=Grow And Harvest Woodroot
+achievement.MakeDinner=Dinner
+achievement.MakeDinner.desc=Make Woodroot Stew
+achievement.ToxicEffect=Toxic Fumes
+achievement.ToxicEffect.desc=Kill A Toxic Mess And Get A Toxic Gem
+achievement.ToxicSword=Toxic Attack
+achievement.ToxicSword.desc=Make A Toxic Sword
+achievement.Change=It Just Changed
+achievement.Change.desc=Transform A Mob Using The Transformation Wand
+achievement.KillToxic=Even More Toxic
+achievement.KillToxic.desc=Kill Another Toxic Mess
+achievement.Fuel=Fuel The Fire
+achievement.Fuel.desc=Craft A Fuel Can
+achievement.end=It's The End
+achievement.end.desc=Kill The Caller Of Mobs
+achievement.Red=Red
+achievement.Red.desc=Tame A Tame Monster
+achievement.Silver=Shiny
+achievement.Silver.desc=Smelt Silver Ore
+achievement.Village=Village
+achievement.Village.desc=Turn A Mob Into A Villager
+achievement.OP=OP
+achievement.OP.desc=Drop The Destroyer And Pick It Up Again
+achievement.Fire=Firewatch
+achievement.Fire.desc=Extinguish A Fire Mage Or Fire Zombie (Hint:Use The Transformation Wand)
+achievement.Pig=I Was Peaceful
+achievement.Pig.desc=Turn A Creepataur Into A Creeper
+item.FruitCake.name=Fruit Cake
+tile.BerryPlant.name=Berry Plant
+item.BerrySeed.name=Berry Seed
+item.CureStone.name=Cure Stone
+achievement.MotherNaturesSon=Mother Nature's Son
+achievement.MotherNaturesSon.desc=Find A Berry Seed
+achievement.Lie2=Lie #2
+achievement.Lie2.desc=Make A Fruit Cake
+entity.HellsSpawn.name=Hell's Spawn
+tile.MakeSpawn.name=Hell's Spawn Summoning Stone
+item.FireSword.name=Blazing Blade
+achievement.Inferno=Inferno
+achievement.Inferno.desc=Kill Hell's Spawn And Take The Blazing Blade
+achievement.BiggerDemons=Bigger Demons
+achievement.BiggerDemons.desc=Kill Hell's Spawn
+achievement.Cure=Cure
+achievement.Cure.desc=Make A Cure Stone
+achievement.HeavyMetal=Heavy Metal
+achievement.HeavyMetal.desc=Drop A Steel Ingot And Pick It Up Again
+achievement.WhatKindOfBlackMagicIsThis=Black Magic
+achievement.WhatKindOfBlackMagicIsThis.desc=Make Transformation Dust
+item.VoidPowder.name=Void Powder
+enchantment.speedMagic=Swiftness
+item.Silveraxe.name=Silver Axe
+item.Silverpick.name=Silver Pickaxe
+item.Silverhoe.name=Silver Hoe
+item.Silvershovel.name=Silver Shovel
+item.Silversword.name=Silver Sword
+item.SilverBoots.name=Silver Boots
+item.SilverChest.name=Silver Chestplate
+item.SilverHelm.name=Silver Helmet
+item.SilverLegs.name=Silver Leggings
+entity.InvisMob.name=Lurker
+tile.XrayGlass.name=X-ray Glass
+entity.VillagerMob.name=Villager Traitor
+entity.Human.name=Human
+item.BloodEye.name=Blood Ender Eye
+item.VisberSword.name=A Watcher's Sword
+entity.FeralMonster.name=Feral Monster
+entity.PoisonSnail.name=Poison Snail
+item.BoneBoots.name=Bone Boots
+item.BoneChest.name=Bone Chestplate
+item.BoneHelm.name=Bone Helmet
+item.BoneLegs.name=Bone Leggings
+item.ZombieBoots.name=Rotten Flesh Boots
+item.ZombieChest.name=Rotten Flesh Chestplate
+item.ZombieHelm.name=Rotten Flesh Helmet
+item.ZombieLegs.name=Rotten Flesh Leggings
+enchantment.witheringSpell=Withering
+tile.CopperOre.name=Copper Ore
+tile.TinOre.name=Tin Ore
+item.CopperIngot.name=Copper Ingot
+item.TinIngot.name=Tin Ingot
+tile.CopperBlock.name=Copper Block
+tile.TinBlock.name=Tin Block
+item.Coppersword.name=Copper Sword
+item.Copperhoe.name=Copper Hoe
+item.Copperaxe.name=Copper Axe
+item.Coppershovel.name=Copper Shovel
+item.Copperpick.name=Copper Pickaxe
+item.CopperHelm.name=Copper Helmet
+item.CopperChest.name=Copper Chestplate
+item.CopperLegs.name=Copper Leggings
+item.CopperBoots.name=Copper Boots
+item.Tinsword.name=Tin Sword
+item.Tinhoe.name=Tin Hoe
+item.Tinaxe.name=Tin Axe
+item.Tinshovel.name=Tin Shovel
+item.Tinpick.name=Tin Pickaxe
+item.TinHelm.name=Tin Helmet
+item.TinChest.name=Tin Chestplate
+item.TinLegs.name=Tin Leggings
+item.TinBoots.name=Tin Boots
+enchantment.toxicMagic=Toxicity
+enchantment.eldersvoid=Lifting Voids
+enchantment.calling=Calling
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
