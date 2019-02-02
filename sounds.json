@@ -1,0 +1,37 @@
+{
+"entityNew.say": {"category" : "hostile", "sounds":["say1", "say2", "say3"]},
+
+"entityNew.hit": {"category" : "hostile", "sounds":["hit1", "hit2", "hit3"]},
+
+"entityNew.death": {"category" : "hostile", "sounds":["die1", "die2", "die3"]},
+
+"Tame.death": {"category" : "hostile", "sounds":["TameDie", "TameDie1", "TameDie2"]},
+
+"Tame.mad": {"category" : "hostile", "sounds":["Mad", "Mad2", "Mad3"]},
+
+"Tame.hurt": {"category" : "hostile", "sounds":["Pain1", "Pain2", "Pain3"]},
+
+"Tame.say": {"category" : "hostile", "sounds":["TameSay", "TameSay2", "TameSay3"]},
+
+"tusk.say": {"category" : "hostile", "sounds":["OddSay1", "OddSay2", "OddSay3"]},
+
+"tusk.hit": {"category" : "hostile", "sounds":["OddHit1", "OddHit2", "OddHit3"]},
+
+"tusk.death": {"category" : "hostile", "sounds":["OddDie1", "OddDie2", "OddDie3"]},
+
+"beast.death": {"category" : "hostile", "sounds":["BeastDie", "BeastDie1", "BeastDie2"]},
+
+"beast.hurt": {"category" : "hostile", "sounds":["HitBeast", "HitBeast1", "HitBeast2"]},
+
+"beast.say": {"category" : "hostile", "sounds":["BeastSay", "BeastSay1", "BeastSay2"]},
+
+"Silver.death": {"category" : "hostile", "sounds":["SilverDie1", "SilverDie2", "SilverDie3", "SilverDie4"]},
+
+"Silver.step": {"category" : "hostile", "sounds":["SilverStep1", "SilverStep2"]},
+
+"Silver.say": {"category" : "hostile", "sounds":["SilverSay1", "SilverSay2", "SilverSay3", "SilverSay4"]},
+
+"Silver.mad": {"category" : "hostile", "sounds":["SilverMad1", "SilverMad2", "SilverMad3", "SilverMad4"]},
+
+"Silver.Hit": {"category" : "hostile", "sounds":["SilverHit1", "SilverHit2", "SilverHit3", "SilverHit4"]}
+}
