@@ -33,5 +33,7 @@
 
 "Silver.mad": {"category" : "hostile", "sounds":["SilverMad1", "SilverMad2", "SilverMad3", "SilverMad4"]},
 
-"Silver.Hit": {"category" : "hostile", "sounds":["SilverHit1", "SilverHit2", "SilverHit3", "SilverHit4"]}
+"Silver.Hit": {"category" : "hostile", "sounds":["SilverHit1", "SilverHit2", "SilverHit3", "SilverHit4"]},
+
+"Change": {"category" : "hostile", "sounds":["Change"]}
 }

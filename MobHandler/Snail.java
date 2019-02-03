@@ -81,7 +81,7 @@ public class Snail extends EntityAnimal {
 				entitypigzombie.setLocationAndAngles(this.posX, this.posY,
 						this.posZ, this.rotationYaw, this.rotationPitch);
 				this.worldObj.spawnEntityInWorld(entitypigzombie);
-				this.playSound("random.fizz", 1.0f, 1.0f);
+				this.playSound("mp:Change", 1.0f, 1.0f);
 				p_70085_1_.triggerAchievement(MinecraftPlus.ItJustChanged);
 				this.setDead();
 			}

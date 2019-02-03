@@ -14,6 +14,7 @@ public class biomesMP {
 	public static BiomeGenBase Cherry;
 	public static BiomeGenBase IceBiome;
 	public static BiomeGenBase IceFlat;
+	public static BiomeGenBase ObsidianPlace;
 
 	public static void init() {
 		registerBiomes();
@@ -44,6 +45,10 @@ public class biomesMP {
 		IceFlat = new BiomeIceSheet(205).setBiomeName("Ice Sheet");
 		BiomeDictionary.registerBiomeType(IceFlat, Type.PLAINS);
 		BiomeManager.icyBiomes.add(new BiomeEntry(IceFlat, 15));
+		
+		ObsidianPlace = new BlackBiome(206).setBiomeName("Obsidian Plains");
+		BiomeDictionary.registerBiomeType(ObsidianPlace, Type.PLAINS);
+		BiomeManager.desertBiomes.add(new BiomeEntry(ObsidianPlace, 15));
 
 		BiomeManager.addSpawnBiome(SilverMT);
 
@@ -56,6 +61,8 @@ public class biomesMP {
 		BiomeManager.addSpawnBiome(IceBiome);
 		
 		BiomeManager.addSpawnBiome(IceFlat);
+		
+		BiomeManager.addSpawnBiome(ObsidianPlace);
 
 	}
 }

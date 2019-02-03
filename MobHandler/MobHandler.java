@@ -41,7 +41,7 @@ public class MobHandler {
 				BiomeGenBase.frozenOcean, BiomeGenBase.river,
 				BiomeGenBase.frozenRiver, biomesMP.SilverMT,
 				biomesMP.SummerWood, biomesMP.Wasteland
-				,biomesMP.IceBiome, biomesMP.IceFlat);
+				,biomesMP.IceBiome, biomesMP.IceFlat, biomesMP.ObsidianPlace);
 		EntityRegistry.registerModEntity(MobClass, Name, entityId,
 				MinecraftPlus.instance, 24, 1, true);
 		createEgg(entityId, color, subcolor);
@@ -76,7 +76,7 @@ public class MobHandler {
 				BiomeGenBase.river, BiomeGenBase.frozenRiver,
 				BiomeGenBase.hell, BiomeGenBase.sky, biomesMP.SilverMT,
 				biomesMP.SummerWood, biomesMP.Wasteland
-				,biomesMP.IceBiome, biomesMP.IceFlat);
+				,biomesMP.IceBiome, biomesMP.IceFlat, biomesMP.ObsidianPlace);
 		EntityRegistry.registerModEntity(MobClass, Name, entityId,
 				MinecraftPlus.instance, 24, 1, true);
 		createEgg(entityId, color, subcolor);
@@ -110,7 +110,7 @@ public class MobHandler {
 				BiomeGenBase.deepOcean, BiomeGenBase.frozenOcean,
 				BiomeGenBase.river, BiomeGenBase.frozenRiver,
 				biomesMP.SilverMT, biomesMP.SummerWood, biomesMP.Wasteland
-				,biomesMP.IceBiome, biomesMP.IceFlat);
+				,biomesMP.IceBiome, biomesMP.IceFlat, biomesMP.ObsidianPlace);
 		EntityRegistry.registerModEntity(MobClass, Name, entityId,
 				MinecraftPlus.instance, 24, 1, true);
 		createEgg(entityId, color, subcolor);
@@ -144,7 +144,7 @@ public class MobHandler {
 				BiomeGenBase.deepOcean, BiomeGenBase.frozenOcean,
 				BiomeGenBase.river, BiomeGenBase.frozenRiver,
 				biomesMP.SilverMT, BiomeGenBase.sky, biomesMP.SummerWood,
-				biomesMP.Wasteland, biomesMP.IceBiome, biomesMP.IceFlat);
+				biomesMP.Wasteland, biomesMP.IceBiome, biomesMP.IceFlat, biomesMP.ObsidianPlace);
 		EntityRegistry.registerModEntity(MobClass, Name, entityId,
 				MinecraftPlus.instance, 24, 1, true);
 		createEgg(entityId, color, subcolor);
@@ -209,7 +209,7 @@ public class MobHandler {
 				BiomeGenBase.deepOcean, BiomeGenBase.frozenOcean,
 				BiomeGenBase.river, BiomeGenBase.frozenRiver,
 				BiomeGenBase.hell, biomesMP.SilverMT, biomesMP.SummerWood,
-				biomesMP.Wasteland, biomesMP.IceBiome, biomesMP.IceFlat);
+				biomesMP.Wasteland, biomesMP.IceBiome, biomesMP.IceFlat, biomesMP.ObsidianPlace);
 		EntityRegistry.registerModEntity(MobClass, Name, entityId,
 				MinecraftPlus.instance, 24, 1, true);
 		createEgg(entityId, color, subcolor);
